@@ -1,7 +1,7 @@
-# mahimahi mm-link (Downlink) [/users/gtqifan/gtqifan/pantheon/src/experiments/12mbps.trace] > /users/gtqifan/gtqifan/pantheon/src/experiments/data/indigo_mm_acklink_run1.log
-# command line: 'mm-link' '/users/gtqifan/gtqifan/pantheon/src/experiments/12mbps.trace' '/users/gtqifan/gtqifan/pantheon/src/experiments/12mbps.trace' '--uplink-log=/users/gtqifan/gtqifan/pantheon/src/experiments/data/indigo_mm_datalink_run1.log' '--downlink-log=/users/gtqifan/gtqifan/pantheon/src/experiments/data/indigo_mm_acklink_run1.log' 'python' '/users/gtqifan/gtqifan/pantheon/src/experiments/tunnel_manager.py'
+# mahimahi mm-link (Downlink) [/users/gtqifan/pantheon/src/experiments/12mbps.trace] > /users/gtqifan/pantheon/src/experiments/data/indigo_mm_acklink_run1.log
+# command line: 'mm-link' '/users/gtqifan/pantheon/src/experiments/12mbps.trace' '/users/gtqifan/pantheon/src/experiments/12mbps.trace' '--uplink-log=/users/gtqifan/pantheon/src/experiments/data/indigo_mm_datalink_run1.log' '--downlink-log=/users/gtqifan/pantheon/src/experiments/data/indigo_mm_acklink_run1.log' 'python' '/users/gtqifan/pantheon/src/experiments/tunnel_manager.py'
 # queue: infinite
-# init timestamp: 1646251527159
+# init timestamp: 1646365419403
 # base timestamp: 36
 37 # 1504
 38 # 1504
@@ -518,11 +518,7 @@
 547 # 1504
 548 # 1504
 549 # 1504
-549 + 80
-549 + 52
 550 # 1504
-550 - 80 1
-550 - 52 1
 551 # 1504
 552 # 1504
 553 # 1504
@@ -538,9 +534,7 @@
 563 # 1504
 564 # 1504
 565 # 1504
-565 + 80
 566 # 1504
-566 - 80 1
 567 # 1504
 568 # 1504
 569 # 1504
@@ -840,7 +834,11 @@
 863 # 1504
 864 # 1504
 865 # 1504
+865 + 80
+865 + 52
 866 # 1504
+866 - 80 1
+866 - 52 1
 867 # 1504
 868 # 1504
 869 # 1504
@@ -852,7 +850,9 @@
 875 # 1504
 876 # 1504
 877 # 1504
+877 + 80
 878 # 1504
+878 - 80 1
 879 # 1504
 880 # 1504
 881 # 1504
@@ -936,7 +936,9 @@
 959 # 1504
 960 # 1504
 961 # 1504
+961 + 80
 962 # 1504
+962 - 80 1
 963 # 1504
 964 # 1504
 965 # 1504
@@ -1036,11 +1038,7 @@
 1059 # 1504
 1060 # 1504
 1061 # 1504
-1061 + 80
-1061 + 80
 1062 # 1504
-1062 - 80 1
-1062 - 80 1
 1063 # 1504
 1064 # 1504
 1065 # 1504
@@ -1164,7 +1162,9 @@
 1183 # 1504
 1184 # 1504
 1185 # 1504
+1185 + 80
 1186 # 1504
+1186 - 80 1
 1187 # 1504
 1188 # 1504
 1189 # 1504
@@ -4908,7 +4908,9 @@
 4927 # 1504
 4928 # 1504
 4929 # 1504
+4929 + 52
 4930 # 1504
+4930 - 52 1
 4931 # 1504
 4932 # 1504
 4933 # 1504
@@ -5008,9 +5010,7 @@
 5027 # 1504
 5028 # 1504
 5029 # 1504
-5029 + 52
 5030 # 1504
-5030 - 52 1
 5031 # 1504
 5032 # 1504
 5033 # 1504
@@ -12846,7 +12846,9 @@
 12863 # 1504
 12864 # 1504
 12865 # 1504
+12865 + 52
 12866 # 1504
+12866 - 52 1
 12867 # 1504
 12868 # 1504
 12869 # 1504
@@ -13458,9 +13460,7 @@
 13475 # 1504
 13476 # 1504
 13477 # 1504
-13477 + 52
 13478 # 1504
-13478 - 52 1
 13479 # 1504
 13480 # 1504
 13481 # 1504
@@ -27952,7 +27952,9 @@
 27967 # 1504
 27968 # 1504
 27969 # 1504
+27969 + 52
 27970 # 1504
+27970 - 52 1
 27971 # 1504
 27972 # 1504
 27973 # 1504
@@ -32404,9 +32406,7 @@
 32419 # 1504
 32420 # 1504
 32421 # 1504
-32421 + 52
 32422 # 1504
-32422 - 52 1
 32423 # 1504
 32424 # 1504
 32425 # 1504
@@ -33216,3 +33216,4 @@
 33229 # 1504
 33230 # 1504
 33231 # 1504
+33232 # 1504
