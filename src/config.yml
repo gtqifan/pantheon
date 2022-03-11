@@ -11,10 +11,6 @@ schemes:
     name: TCP BBR
     color: gold
     marker: '^'
-  quic:
-    name: QUIC Cubic
-    color: magenta
-    marker: '8'
   scream:
     name: SCReAM
     color: pink
